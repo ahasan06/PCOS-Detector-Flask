@@ -1,2 +1,2 @@
-# PCOS Detector Flask
+# pcos-detector-app
 
